@@ -47,5 +47,5 @@ Install Elastic Vue in your chrome browser and enable:
                 
                 Then you will see the below response on the screen
 
-<img width="1720" alt="image" src="https://user-images.githubusercontent.com/109475849/215254873-22bfd114-6ca1-4e7a-a450-63cf92c8d2c0.png">
+<img width="1728" alt="image" src="https://user-images.githubusercontent.com/109475849/215254979-ffaf4d4c-ba84-4781-aa6b-d358649f26f6.png">
 
