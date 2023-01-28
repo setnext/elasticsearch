@@ -37,3 +37,15 @@ Validate the elastic search up and running
                   },
                   "tagline" : "You Know, for Search"
                 }
+
+
+Install Elastic Vue in your chrome browser and enable: 
+
+                chrome://extensions/
+                
+                And configure your local cluster using http://localhost:9200/
+                
+                Then you will see the below response on the screen
+
+<img width="1720" alt="image" src="https://user-images.githubusercontent.com/109475849/215254873-22bfd114-6ca1-4e7a-a450-63cf92c8d2c0.png">
+
