@@ -4,6 +4,7 @@ metadata:
   labels:
     product: k8s-elastic
   name: elastic-config
+  namespace: db
 data:
   elasticsearch.yaml: |
     discovery.type: single-node
