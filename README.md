@@ -49,3 +49,15 @@ Install Elastic Vue in your chrome browser and enable:
 
 <img width="1728" alt="image" src="https://user-images.githubusercontent.com/109475849/215254979-ffaf4d4c-ba84-4781-aa6b-d358649f26f6.png">
 
+
+###Synching the MongoDB to ElasticSearch
+
+                Download Logstash
+                
+                Install Mongodb Input plugin
+                
+                cd work/runtime/logstash
+
+                bin/logstash-plugin install logstash-input-mongodb
+
+                bin/logstash -f config/logstash-mongo.conf
