@@ -15,3 +15,7 @@ data:
       enabled: false
     xpack.security.transport.ssl:
       enabled: false
+    path:
+      repo:
+        - /usr/share/elasticsearch
+        - /usr/share/elasticsearch/data
